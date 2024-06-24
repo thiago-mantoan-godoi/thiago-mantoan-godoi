@@ -5,13 +5,13 @@
 
 - 🌱 Atualmente estou aprendendo **Rust, inteligência artificial, ciência de dados e aprendizado de máquina**
 
-- 🤝 Estou procurando ajuda com ****inteligência artificinteligência artificial aplicada às indústrias**
+- 🤝 Estou procurando ajuda com **inteligência artificial aplicada às indústrias**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/thiago-mantoan-godoi](https://github.com/thiago-mantoan-godoi)
 
 - 📝 Escrevo raramente artigos no [linkedin.com/in/thiago-mantoan](linkedin.com/in/thiago-mantoan)
 
-- 💬 Pergunte-me sobre **SQL, Google Data Studio, Power BI, Excel e Python**
+- 💬 Pergunte-me sobre **SQL, inteligência artificial, machine learning, Power BI, Excel e Python**
 
 - 📫 Como chegar até mim **godoi.thiago@yahoo.com.br**
 
